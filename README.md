@@ -27,7 +27,7 @@
   <img align="center" alt="Yaba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yaba-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Yaba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Yaba-Bash" height="30" width="40" src="https://i.pinimg.com/originals/b7/4b/a1/b74ba163b0f1b9af46fe75f8a7717a67.gif">
+<img align="center" alt="Yaba-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 </div>
   
 <br />
@@ -72,7 +72,7 @@
   💌 Feel free to get in touch: ⤵️
 </p>
 
-<p align="left" style="background:gray">
+<p align="left" style="background:transparent">
 <a href="https://twitter.com/yaba_ernesto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-yabaernesto-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
