@@ -1,4 +1,4 @@
-## Welcome! My name is <strong>Yaba Ernesto</strong> 👋
+## Welcome! My name is <strong>Yaba Ernesto</strong> ☕
 
 <div>
     <p>Enthusiast of the best web and mobile development technologies 🚀</p>
