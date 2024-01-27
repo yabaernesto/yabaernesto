@@ -2,7 +2,7 @@
 
 <div>
     <p>Enthusiast of the best web and mobile development technologies 🚀</p>
-    <p>I'm a software developer. My specialty is developing web applications with ReactJS and TypeScript, and also mobile applications for Android and iOS with React Native</p>
+    <p>I'm a software developer. My specialty is developing web applications with ReactJS, TypeScript and NodeJS, and also mobile applications for Android and iOS with React Native</p>
 </div>
 
 <div>
