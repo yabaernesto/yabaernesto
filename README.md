@@ -1,16 +1,16 @@
-## Welcome! My name is <strong>Yaba Ernesto</strong> ☕
+## Bem-vindo(a)! Eu sou o <strong>Yaba Ernesto</strong> ☕
 
 <div>
-    <p>Enthusiast of the best web and mobile development technologies 🚀</p>
-    <p>I'm a software developer. My specialty is developing web applications with ReactJS, TypeScript and NodeJS, and also mobile applications for Android and iOS with React Native</p>
+    <p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile 🚀</p>
+    <p>Minha especialidade é desenvolver aplicações web e mobile com ReactJS, React Native, NodeJS e TypeScript</p>
 </div>
 
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left">
-        <p>I've been <strong>Software Developer</strong> for +3 years 📌</p>
-        <p>I'm always looking for challenges and opportunities to learn and grow. If you are interested in collaborating or sharing ideas, please don't hesitate to contact me 🚀</p>
-        <p>I love learning about new technologies and exploring ways to make the world better through them 💻</p>
+        <p>Criador de conteúdos de <strong>Desenvolvimento de Software</strong> 📌</p>
+        <p>Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo 🚀</p>
+        <p>Adoro aprender sobre novas tecnologias e explorar maneiras de tornar o mundo melhor através dela 💻</p>
     </div>
 </div>
 
@@ -60,14 +60,14 @@
 <br />
 
 <div align="center">
-  <h3><strong>In my free time</strong></b></h3>
+  <h3><strong>Em meu tempo livre!!!</strong></b></h3>
   <img style="width: 350px; border-radius: 8px;" align="center" src="https://i.pinimg.com/originals/b7/4b/a1/b74ba163b0f1b9af46fe75f8a7717a67.gif" alt="time free"/>  
 </div>
 
 <br />
 
 <p align="left">
-  💌 Feel free to get in touch: ⤵️
+  💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
 <p align="left" style="background:transparent">
@@ -89,7 +89,7 @@
 <br />
 
 <div align="center">
-  <h3><strong>Profile Visitors</strong></h3>
+  <h3><strong>Visitas no perfil:</strong></h3>
 </div>
 
 <p align="center">
