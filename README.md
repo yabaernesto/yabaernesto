@@ -2,15 +2,13 @@
 
 <div>
     <p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile 🚀</p>
-    <p>Minha especialidade é desenvolver aplicações web e mobile com ReactJS, React Native, NodeJS e TypeScript</p>
+    <p>Criador de conteúdos de <strong>Desenvolvimento de Software</strong> 📌</p>
 </div>
 
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left">
-        <p>Criador de conteúdos de <strong>Desenvolvimento de Software</strong> 📌</p>
-        <p>Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo 🚀</p>
-        <p>Adoro aprender sobre novas tecnologias e explorar maneiras de tornar o mundo melhor através dela 💻</p>
+        <p>Estou sempre em busca de desafios e oportunidades para aprender e crescer. Adoro aprender sobre novas tecnologias e explorar maneiras de tornar o mundo melhor através dela 💻</p>
     </div>
 </div>
 
