@@ -39,15 +39,14 @@ Coisas que gosto de fazer 📌:
   <tr>
     <td>
       <img height="160em" 
-        src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=dark"
+        src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=react"
        />
     </td>
     <td>
-      <img height="160em" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yabaernesto&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabaernesto&layout=compact&langs_count=7&theme=react&hide_border=true"/>
     </td>
     <td>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabaernesto&theme=monokai"/>
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabaernesto&theme=react"/>
     </td>
   </tr>
 </table>
