@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@yaba_ernesto-7159c1?style=flat-square&labelColor=7159c1&logo=twitter&logoColor=white&link=https://twitter.com/yaba_ernesto)](https://twitter.com/yaba_ernesto)
 [![Linkedin Badge](https://img.shields.io/badge/-Yaba%20Ernesto-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yabaernesto)](https://www.linkedin.com/in/yabaernesto/)
 [![Gmail Badge](https://img.shields.io/badge/-yabaernesto@gmail.com-7159c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabaernesto@gmail.com)](mailto:yabaernesto@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yabadev/)](https://www.instagram.com/yabadev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yaba.ernesto/)](https://www.instagram.com/yabadev/)
 
 <div>
     <div align="left">
