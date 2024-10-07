@@ -7,8 +7,7 @@
 
 <div>
     <div align="left">
-        <p>👩‍💻 Eu tive meu primeiro contato com programação aos 16 anos. Atualmente com foco principal na minha carreira profissional e especialização nas áreas de desenvolvimento web e mobile usando a stack JS "Node.JS, React.JS, React Native" & TypeScript.</p>
-        <p> 🚀  Sou desenvolvedor de software a +3 anos e entusiasta das melhores tecnologias de desenvolvimento web e mobile, estou sempre diposto em aprender e contribuir em projetos da minha stack  ☕</p>
+        <p> 🚀  Desenvolvedor de software a +3 anos e entusiasta das melhores tecnologias de desenvolvimento web e mobile, estou sempre diposto em aprender e contribuir em projetos da minha stack  ☕</p>
         Coisas que gosto de fazer 💻:
         <ul>
           <li>Aplicações Web</li>
