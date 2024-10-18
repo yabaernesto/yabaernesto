@@ -7,8 +7,8 @@
 
 <div>
     <div align="left">
-        <p>Sou o Yaba Ernesto, entusiasta das melhores tecnologias de desenvolvimento web e mobile 🚀. Desenvolvedor de Software a mais de 3 anos ☕.</p>
-        <p>Atuo principalmente nas stacks JavaScript e TypeScript, com foco em Node.js, React.js e React Native. Gosto de me manter atualizado com novas ferramentas e tendências, sempre buscando criar soluções eficientes e escaláveis.</p>
+        <p>Sou o Yaba Ernesto, desenvolvedor de Software a mais de 3 anos, e  entusiasta das melhores tecnologias de desenvolvimento web e mobile 🚀. .</p>
+        <p>Especializando-me nas stacks JavaScript e TypeScript, com foco em Node.js, React.js e React Native. Busco estar sempre atualizado com novas ferramentas e tendências, visando desenvolver soluções eficientes e escaláveis ☕.</p>
 <p>Também sou fã de cultura pop e geek 🎮. Adoro participar de eventos e trocar ideias sobre esses temas. Se quiser bater um papo, é só chamar!</p>
         Coisas que gosto de fazer 💻:
         <ul>
