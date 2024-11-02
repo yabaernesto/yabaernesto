@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Yaba Ernesto</h1>
 <h3 align="center">Um desenvolvedor apaixonado por programação e educação</h3>
 
- <img  align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300">
-
 - 🌱 Atualmente estudando Engenharia de Software
 
 - 👯 Busco colaborar em projetos Open Source
@@ -13,9 +11,8 @@
 
 <p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile ☕.</p>
 
-<div style="display:flex;">
+<div align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=tokyonight"/>
-  &nbsp;
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=yabaernesto&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=1"/>
 </div>
 <br/>
