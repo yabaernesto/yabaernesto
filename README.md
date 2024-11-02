@@ -13,6 +13,7 @@
 
 <div align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=tokyonight"/>
+  <img  height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yabaernesto&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=yabaernesto&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=1"/>
 </div>
 <br/>
