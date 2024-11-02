@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
 
-- 🎮 Fã de cultura pop e Geek
+- 🎮 Fã de cultura Pop e Geek
 
 <p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile ☕.</p>
 
