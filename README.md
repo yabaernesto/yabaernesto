@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, Eu sou Yaba Ernesto</h1>
-<h3 align="center">Um desenvolvedor apaixonado por programação e educação</h3>
+<h1 align="center">Hello 👋, I'm Yaba Ernesto</h1>
+<h3 align="center">Developer passionate about programming and education</h3>
 
-- 🌱 Atualmente estudando Engenharia de Software
+- 🌱 Currently studying Software Engineering
 
-- 👯 Busco colaborar em projetos Open Source
+- 👯 I'm looking to collaborate on Open Source
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
 
-- 🎮 Fã de cultura Pop e Geek
+- 🎮 Fan of Pop and Geek culture
 
-<p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile ☕.</p>
+<p>Enthusiast of the best web and mobile development technologies ☕.</p>
 
 <div align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=tokyonight"/>
