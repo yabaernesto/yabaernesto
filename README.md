@@ -2,7 +2,7 @@
 <h3 align="center">Developer passionate about programming and education</h3>
 
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
-![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=green) 
+![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
 ![Followers](https://img.shields.io/github/followers/yabaernesto) 
 ![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
