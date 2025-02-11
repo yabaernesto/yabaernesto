@@ -46,6 +46,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=000020)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?logo=android%20studio&logoColor=3DDC84)](https://developer.android.com/studio)
 
 <h3>🖥️ Desktop:</h3>
 
@@ -57,7 +58,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=4169E1)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?logo=android%20studio&logoColor=3DDC84)](https://developer.android.com/studio)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=#FFD500)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
