@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on Open Source
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, React, React Native, Kotlin**
 
 - 🎮 Fan of Pop and Geek culture
 
