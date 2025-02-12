@@ -24,8 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
-![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 
 <h3>⚙️ Back-end and Database:</h3>
@@ -33,8 +31,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=2D3748)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=drizzle&logoColor=FFCC00)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun&logoColor=white)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno&logoColor=white)
@@ -42,7 +38,6 @@
 <h3>📱 Mobile:</h3>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=000020)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
@@ -50,7 +45,6 @@
 
 <h3>🖥️ Desktop:</h3>
 
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=E57324)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
 ![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri&logoColor=FFC131)
 
@@ -61,8 +55,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=#FFD500)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=A259FF)
 
