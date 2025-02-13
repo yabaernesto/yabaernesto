@@ -40,7 +40,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=000020)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?logo=android%20studio&logoColor=3DDC84)](https://developer.android.com/studio)
 
 <h3>🖥️ Desktop:</h3>
