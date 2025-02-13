@@ -24,7 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 
 <h3>⚙️ Back-end and Database:</h3>
 
