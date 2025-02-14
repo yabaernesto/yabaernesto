@@ -43,6 +43,7 @@
 
 <h3>🖥️ Desktop:</h3>
 
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=DEA584)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
 ![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri&logoColor=FFC131)
 
