@@ -41,12 +41,6 @@
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=000020)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?logo=android%20studio&logoColor=3DDC84)](https://developer.android.com/studio)
 
-<h3>🖥️ Desktop:</h3>
-
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=DEA584)
-![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
-![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri&logoColor=FFC131)
-
 <h3>⚙️ Tools:</h3>
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
