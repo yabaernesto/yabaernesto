@@ -1,22 +1,22 @@
-<h1 align="center">Hello 👋, I'm Yaba Ernesto</h1>
-<h3 align="center">Developer passionate about programming and education</h3>
+<h1 align="center">Olá 👋, sou Yaba Ernesto</h1>
+<h3 align="center">Desenvolvedor apaixonado por programação e educação</h3>
 
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
 ![Followers](https://img.shields.io/github/followers/yabaernesto) 
 ![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-- 🌱 Currently studying Software Engineering
+- 👯 Estou procurando colaborar em projetos Open Source
 
-- 👯 I'm looking to collaborate on Open Source
+- 💬 Pergunte-me sobre **JavaScript, TypeScript, React, Node.js**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
 
-- 🎮 Fan of Pop and Geek culture
+<p>Entusiasta pelas melhores tecnologias de desenvolvimento web e mobile, estou sempre explorando novas soluções e aprimorando minhas habilidades para criar aplicações eficientes e escaláveis. Estudo e aplico boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code para escrever código mais estruturado e escalável ☕ </p>
 
-<p>Enthusiast of the best web and mobile development technologies ☕.</p>
+<p>Também sou um entusiasta de Kotlin para desenvolvimento Android nativo e backend, buscando expandir meu conhecimento nesta stack.</p>
+<p>Fora do código, sou fã de cultura pop e geek e gosto de trocar ideias sobre tecnologia, inovação e desenvolvimento de software. Se quiser bater um papo é só chamar 🎮</p>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> 🛠 &nbsp;Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
@@ -47,6 +47,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=000020)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?logo=android%20studio&logoColor=3DDC84)](https://developer.android.com/studio)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=#FFD500)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
