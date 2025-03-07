@@ -13,7 +13,7 @@
 
 <p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile. Estou sempre explorando novas soluções e aprimorando minhas habilidades para criar aplicações eficientes e escaláveis. Estudo e aplico boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code para escrever código mais estruturado e escalável ☕ </p>
 
-<p>Também sou um entusiasta de <strong>Kotlin</strong> para desenvolvimento Android nativo e backend, buscando expandir meu conhecimento nesta stack.</p>
+<p>Entusiasta de desenvolvimento <strong>web</strong> e <strong>mobile</strong> 💻</p>
 <p>Fora do código, sou fã de cultura pop e geek e gosto de trocar ideias sobre tecnologia, inovação e desenvolvimento de software. Se quiser bater um papo é só chamar 🎮</p>
 
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
