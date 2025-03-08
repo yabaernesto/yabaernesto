@@ -8,7 +8,7 @@
 
 - 👯 Estou procurando colaborar em projetos Open Source
 
-- 💬 Pergunte-me sobre **JavaScript, TypeScript, React, Node.js**
+- 💬 Pergunte-me sobre **JavaScript, TypeScript, React.js, React Native, Node.js, Bun, Deno**
 
 
 <p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile. Estou sempre explorando novas soluções e aprimorando minhas habilidades para criar aplicações eficientes e escaláveis. Estudo e aplico boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code para escrever código mais estruturado e escalável ☕ </p>
