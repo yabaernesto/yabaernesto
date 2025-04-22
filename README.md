@@ -10,11 +10,13 @@
 
 - 💬 Pergunte-me sobre **JavaScript, TypeScript, React, Node.js**
 
+<p>Sou desenvolvedor de software desde 2020, trabalhando com web e mobile, sempre buscando criar aplicações modernas, eficientes e que realmente façam a diferença 💻</p>
 
-<p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile. Estou sempre explorando novas soluções e aprimorando minhas habilidades para criar aplicações eficientes e escaláveis. Estudo e aplico boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code para escrever código mais estruturado e escalável ☕ </p>
+<p>Apaixonado por tecnologia, vivo explorando novas ferramentas e aprimorando meu código com as stacks que mais curto: JavaScript, TypeScript, React.js, React Native e Node.js. Gosto de escrever código limpo, escalável e de qualidade, aplicando boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code no dia a dia ☕.</p>
 
-<p>Entusiasta de desenvolvimento <strong>web</strong> e <strong>mobile</strong> 💻</p>
-<p>Fora do código, sou fã de cultura pop e geek e gosto de trocar ideias sobre tecnologia, inovação e desenvolvimento de software. Se quiser bater um papo é só chamar 🎮</p>
+<p>Além da programação, curto muito cultura pop e geek — se rolar um papo sobre tecnologia, inovação, filmes ou games, já ganhou minha atenção 🎮.</p>
+
+<p>Se quiser trocar uma ideia sobre dev ou qualquer coisa legal, é só me chamar! 🚀</p>
 
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
