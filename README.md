@@ -18,6 +18,13 @@
 
 <p>Se quiser trocar uma ideia sobre dev ou qualquer coisa legal, é só me chamar! 🚀</p>
 
+## 🛠 &nbsp;Tech Stack
+
+|FrontEnd|Mobile|BackEnd|Tools|
+|--|--| --| --|
+|![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;![.Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro&logoColor=BC52EE)&nbsp;![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;|![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;|![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;|![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+
+
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 <div>
