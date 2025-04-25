@@ -6,17 +6,14 @@
 ![Followers](https://img.shields.io/github/followers/yabaernesto) 
 ![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-- 👯 Estou procurando colaborar em projetos Open Source
+- 👯 &nbsp; Estou procurando colaborar em projetos Open Source
+- 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS**
+- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, Node.js, React.js, React Native**
+- 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes ou games
 
-- 💬 Pergunte-me sobre **JavaScript, TypeScript, React, Node.js**
+<p>Sou desenvolvedor de software desde 2020, sempre buscando criar aplicações modernas, eficientes e que realmente façam a diferença. Gosto de escrever código limpo, escalável e de qualidade, aplicando boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code no dia a dia ☕.</p>
 
-<p>Sou desenvolvedor de software desde 2020, trabalhando com web e mobile, sempre buscando criar aplicações modernas, eficientes e que realmente façam a diferença 💻</p>
-
-<p>Apaixonado por tecnologia, vivo explorando novas ferramentas e aprimorando meu código com as stacks que mais curto: JavaScript, TypeScript, React.js, React Native e Node.js. Gosto de escrever código limpo, escalável e de qualidade, aplicando boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code no dia a dia ☕.</p>
-
-<p>Além da programação, curto muito cultura pop e geek — se rolar um papo sobre tecnologia, inovação, filmes ou games, já ganhou minha atenção 🎮.</p>
-
-<p>Se quiser trocar uma ideia sobre dev ou qualquer coisa legal, é só me chamar! 🚀</p>
+<p>Se quiser trocar uma ideia sobre dev ou qualquer coisa legal do mundo Nerd/Geek, é só me chamar! 🚀</p>
 
 ## 🛠 &nbsp;Tech Stack
 
