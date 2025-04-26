@@ -9,7 +9,7 @@
 - 👯 &nbsp; Estou procurando colaborar em projetos Open Source
 - 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS**
 - 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, Node.js, React.js, React Native**
-- 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes ou games
+- 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
 <p>Sou desenvolvedor de software desde 2020, sempre buscando criar aplicações modernas, eficientes e que realmente façam a diferença. Gosto de escrever código limpo, escalável e de qualidade, aplicando boas práticas como TDD, SOLID, Design Patterns, DDD e Clean Code no dia a dia ☕.</p>
 
