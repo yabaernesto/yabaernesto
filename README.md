@@ -9,7 +9,7 @@
 - 🔭 &nbsp; Entusiasta de Engenharia de Software
 - 👯 &nbsp; Estou procurando colaborar em projetos Open Source
 - 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
-- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, Node.js, React.js, React Native**
+- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js, Deno e Bun**
 - 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
@@ -29,10 +29,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Astro.js](https://img.shields.io/badge/-Astro.js-333333?style=flat&logo=astro)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
-![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno&logoColor=90E59A)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
