@@ -6,6 +6,7 @@
 ![Followers](https://img.shields.io/github/followers/yabaernesto) 
 ![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
+- 🔭 &nbsp; Entusiasta de Engenharia de Software
 - 👯 &nbsp; Estou procurando colaborar em projetos Open Source
 - 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
 - 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, Node.js, React.js, React Native**
