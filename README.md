@@ -20,36 +20,23 @@
 
 <p>Sou apaixonado por programação, educação e cultura geek. Acredito que as melhores ideias surgem da troca de conhecimentos entre mentes criativas e curiosas ⚡.</p>
 
-## 🛠 &nbsp;Tech Stack
-<h3>💻 &nbsp;Front-end:</h3>
+---
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+## 🚀 Tech Stack & Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Astro.js](https://img.shields.io/badge/-Astro.js-333333?style=flat&logo=astro)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
-
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno&logoColor=90E59A)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
 
-<h3>📱 &nbsp;Mobile:</h3>
-
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=FFFFFF)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+---
 
 <p>Se quiser trocar ideias sobre desenvolvimento, tecnologia ou simplesmente conversar sobre o melhor console de todos os tempos (spoiler: é o Mega Drive), estou à disposição! 🚀</p>
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
