@@ -7,17 +7,17 @@
 ![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 - 👯 &nbsp; Estou procurando colaborar em projetos Open Source
-- 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS**
+- 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
 - 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, Node.js, React.js, React Native**
 - 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-<p>Tive meu primeiro contato com programação aos 16 anos, explorando lógica de programação, algoritmos e estruturas de dados. Ao longo do tempo, trabalhei com diversas linguagens, mas atualmente meu foco está no ecossistema JavaScript, sempre buscando desenvolver aplicações modernas, eficientes e que realmente façam a diferença 🚀.</p>
+<p>Meu primeiro "Hello World" rolou aos 16 anos, enquanto explorava lógica de programação, algoritmos e estruturas de dados. Desde então, passei por diversas linguagens, mas hoje meu foco é o universo JavaScript, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
 
 <p>Valorizo a escrita de código limpo, escalável e de alta qualidade, aplicando boas práticas como TDD, princípios SOLID, Design Patterns, DDD e Clean Code no meu dia a dia ☕.</p>
 
-<p>Sou apaixonado por programação e educação. Gosto de colaborar, trocar ideias e compartilhar conhecimento.. Sou entusiasta de games, filmes, animes e da cultura pop em geral.</p>
+<p>Sou apaixonado por programação, educação e cultura geek. Acredito que as melhores ideias surgem da troca de conhecimentos entre mentes criativas e curiosas ⚡.</p>
 
 ## 🛠 &nbsp;Tech Stack
 <h3>💻 &nbsp;Front-end:</h3>
@@ -50,7 +50,7 @@
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
 
-<p>Se quiser trocar uma ideia sobre desenvolvimento de software ou qualquer coisa legal do mundo Nerd/Geek, é só me chamar! 🚀</p>
+<p>Se quiser trocar ideias sobre desenvolvimento, tecnologia ou simplesmente conversar sobre o melhor console de todos os tempos (spoiler: é o Mega Drive), estou à disposição! 🚀</p>
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 <div>
