@@ -42,7 +42,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
 
-<h3>⚙️ &nbsp;Mobile:</h3>
+<h3>📱 &nbsp;Mobile:</h3>
 
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
