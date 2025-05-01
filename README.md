@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-yabaernesto@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabaernesto@gmail.com)](mailto:yabaernesto@gmail.com)
 
 - 🔭 &nbsp; Entusiasta de Engenharia de Software
-- 👯 &nbsp; Estou procurando colaborar em projetos Open Source
+- 👯 &nbsp; Colaborar em projetos Open Source
 - 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
 - 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js, Deno e Bun**
 - 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
