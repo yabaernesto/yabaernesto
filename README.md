@@ -4,7 +4,11 @@
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
 ![Followers](https://img.shields.io/github/followers/yabaernesto) 
-![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+![Stars](https://img.shields.io/github/stars/yabaernesto?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
+
+[![Twitter Badge](https://img.shields.io/badge/-@yabaernesto-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/yabaernesto)](https://twitter.com/yabaernesto) 
+[![Linkedin Badge](https://img.shields.io/badge/-Yaba%20Ernesto-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yabaernesto/)](https://www.linkedin.com/in/yabaernesto/) 
+[![Gmail Badge](https://img.shields.io/badge/-yabaernesto@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabaernesto@gmail.com)](mailto:yabaernesto@gmail.com)
 
 - 🔭 &nbsp; Entusiasta de Engenharia de Software
 - 👯 &nbsp; Estou procurando colaborar em projetos Open Source
@@ -38,18 +42,7 @@
 <p>Se quiser trocar ideias sobre desenvolvimento, tecnologia ou simplesmente conversar sobre o melhor console de todos os tempos (spoiler: é o Mega Drive), estou à disposição! 🚀</p>
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
-<div>
-  <a href="mailto:yabaernesto@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/yabaernesto/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/yaba.ernesto/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
+---
 <!--
 **yabaernesto/yabaernesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
