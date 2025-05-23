@@ -13,7 +13,7 @@
 - 🔭 &nbsp; Entusiasta de Engenharia de Software
 - 👯 &nbsp; Colaborar em projetos Open Source
 - 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
-- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js**
+- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js, Bun, Deno**
 - 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
@@ -26,27 +26,21 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<h3>💻 &nbsp;Front-end:</h3>
+## 🚀 Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
-
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=%23003B57)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
 
 ---
 
