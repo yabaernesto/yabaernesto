@@ -13,12 +13,12 @@
 - 🔭 &nbsp; Entusiasta de Engenharia de Software
 - 👯 &nbsp; Colaborar em projetos Open Source
 - 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
-- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js, Deno e Bun**
+- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js**
 - 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-<p>Meu primeiro "Hello World" rolou aos 16 anos, enquanto explorava lógica de programação, algoritmos e estruturas de dados. Desde então, passei por diversas linguagens, mas hoje meu foco é o universo JavaScript, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
+<p>Meu primeiro "Hello World" rolou aos 16 anos, enquanto explorava lógica de programação, algoritmos e estruturas de dados. Desde então, passei por diversas linguagens, mas hoje meu foco é o universo JS/TS, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
 
 <p>Valorizo a escrita de código limpo, escalável e de alta qualidade, aplicando boas práticas como TDD, princípios SOLID, Design Patterns, DDD e Clean Code no meu dia a dia ☕.</p>
 
@@ -26,15 +26,28 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack
+
+<h3>💻 &nbsp;Front-end:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=FFFFFF)
+![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
+
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun&logoColor=white)
+![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=%23003B57)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ---
