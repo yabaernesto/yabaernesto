@@ -12,13 +12,13 @@
 
 - 🔭 &nbsp; Entusiasta de Engenharia de Software
 - 👯 &nbsp; Colaborar em projetos Open Source
-- 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JS** ☕
-- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React, Node.js, Bun, Deno**
+- 👨🏻‍💻 &nbsp; Desenvolvedor Fullstack se especializando no ecossistema **JavaScript** ☕
+- 💬 &nbsp; Pergunte-me sobre **JavaScript, TypeScript, React e Node.js**
 - 🎮 &nbsp; Curto cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-<p>Meu primeiro "Hello World" rolou aos 16 anos, enquanto explorava lógica de programação, algoritmos e estruturas de dados. Desde então, passei por diversas linguagens, mas hoje meu foco é o universo JS/TS, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
+<p>Meu primeiro "Hello World" rolou aos 16 anos, enquanto explorava lógica de programação, algoritmos e estruturas de dados. Desde então, passei por diversas linguagens, mas hoje meu foco é o universo JavaScript/TypeScript, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
 
 <p>Valorizo a escrita de código limpo, escalável e de alta qualidade, aplicando boas práticas como TDD, princípios SOLID, Design Patterns, DDD e Clean Code no meu dia a dia ☕.</p>
 
