@@ -26,29 +26,31 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠 &nbsp;Tech Stack
+
+<h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=FFFFFF)
-![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
+![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
+
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
 
 ---
 
