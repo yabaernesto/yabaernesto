@@ -18,11 +18,16 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-<p>Meu primeiro "Hello World" rolou aos 16 anos, enquanto explorava lógica de programação, algoritmos e estruturas de dados. Desde então, passei por diversas linguagens, mas hoje meu foco é o universo JavaScript/TypeScript, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
+<p>Desenvolvedor Fullstack com foco no ecossistema JavaScript ☕.</p>
+<p>+4 anos de experiência sólida em desenvolvimento, já trabalhei com linguagens como Python e Java, mas hoje meu foco é o universo JavaScript/TypeScript, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
 
 <p>Valorizo a escrita de código limpo, escalável e de alta qualidade, aplicando boas práticas como TDD, princípios SOLID, Design Patterns, DDD e Clean Code no meu dia a dia ☕.</p>
 
+<p>Minha stack principal inclui JavaScript, TypeScript, React.js, React Native e Node.js, e estou sempre evoluindo minhas habilidades e explorando novas tecnologias 🔭.</p>
+
 <p>Sou apaixonado por programação, educação e cultura geek. Acredito que as melhores ideias surgem da troca de conhecimentos entre mentes criativas e curiosas ⚡.</p>
+
+<p>Se quiser trocar ideias sobre desenvolvimento, tecnologia ou simplesmente conversar sobre o melhor console de todos os tempos (spoiler: é o Mega Drive), estou à disposição! 🚀</p>
 
 ---
 
