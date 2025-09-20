@@ -18,16 +18,17 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-<p>Desenvolvedor Fullstack com foco no ecossistema JavaScript ☕.</p>
-<p>+4 anos de experiência sólida em desenvolvimento, já trabalhei com linguagens como Python e Java, mas hoje meu foco é o universo JavaScript/TypeScript, sempre buscando criar soluções modernas, escaláveis e de alto impacto 🚀.</p>
+- 💻 Desenvolvedor com +4 anos de experiência, atualmente focado no ecossistema JavaScript/TypeScript, criando aplicações modernas e escaláveis. Gosto de participar de todas as etapas de um projeto: da ideia inicial até a entrega final, sempre buscando unir boa experiência para o usuário com qualidade no desenvolvimento.
 
-<p>Valorizo a escrita de código limpo, escalável e de alta qualidade, aplicando boas práticas como TDD, princípios SOLID, Design Patterns, DDD e Clean Code no meu dia a dia ☕.</p>
+- ✨ Prezo por um código bem organizado e fácil de manter, usando boas práticas para garantir que os projetos possam crescer de forma segura e consistente.
 
-<p>Minha stack principal inclui JavaScript, TypeScript, React.js, React Native e Node.js, e estou sempre evoluindo minhas habilidades e explorando novas tecnologias 🔭.</p>
+- 🚀 Trabalho principalmente com React.js, React Native, Node.js, Bun, PostgreSQL, Electron e AWS, mas estou sempre aprendendo e explorando novas ferramentas. Tenho experiência em desenvolvimento para web, mobile e também em aplicações desktop.
 
-<p>Sou apaixonado por programação, educação e cultura geek. Acredito que as melhores ideias surgem da troca de conhecimentos entre mentes criativas e curiosas ⚡.</p>
+- ⚡ Atualmente, estou fundando a Spacenauta, minha própria software house, com a proposta de criar soluções digitais criativas e de alto impacto.
 
-<p>Se quiser trocar ideias sobre desenvolvimento, tecnologia ou simplesmente conversar sobre o melhor console de todos os tempos (spoiler: é o Mega Drive), estou à disposição! 🚀</p>
+- Sou apaixonado por programação, educação e cultura geek, e acredito que compartilhar conhecimento é uma das melhores formas de evoluir.
+
+- 🎮 Fora do código, adoro conversar sobre games clássicos — e continuo defendendo que o Mega Drive é o melhor console de todos os tempos!
 
 ---
 
