@@ -40,8 +40,6 @@
 
 - 👨🏻‍💻 Sou Founder da Spacenauta, minha software house voltada à criação de soluções digitais criativas e de alto impacto.
 
-- 🎮 Apaixonado por programação, educação e cultura geek — e sim, ainda defendo que o Mega Drive foi o melhor console de todos os tempos!
-
 ---
 
 ## 💻 &nbsp;Minha Stack
@@ -79,8 +77,7 @@
 
 ---
 
-<p>Se quiser trocar ideias sobre desenvolvimento, tecnologia ou simplesmente conversar sobre o melhor console de todos os tempos (spoiler: é o Mega Drive), estou à disposição! 🚀</p>
+🎮 Apaixonado por programação, educação e cultura geek — e sim, ainda defendo que o Mega Drive foi o melhor console de todos os tempos!
 
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">
 
-[![](https://visitcount.itsvg.in/api?id=brenooliveiranascimento&icon=0&color=0)](https://visitcount.itsvg.in)
