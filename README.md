@@ -38,7 +38,7 @@
 
 - ⚙️ Prezo por um código limpo, organizado e de fácil manutenção, aplicando boas práticas para garantir projetos seguros e consistentes.
 
-- 👨🏻‍💻 Sou Founder da Spacenauta, minha software house voltada à criação de soluções digitais criativas e de alto impacto.
+- 👨🏻‍💻 Sou co-funder da Spacenauta, uma software house voltada à criação de soluções digitais criativas e de alto impacto.
 
 ---
 
