@@ -28,6 +28,11 @@
 - 💬 &nbsp;Pergunte-me sobre **JavaScript, TypeScript, React e Node.js**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
+<div style="display:flex; gap:2">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=dark"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=yabaernesto&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+</div>
+
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas. Durante o ensino médio técnico em Informática, tive contato com diversas tecnologias e desenvolvi uma boa base em algoritmos, estrutura de dados e programação orientada a objetos.
@@ -70,11 +75,6 @@
 </div>
 
 ---
-
-<div style="display:flex; gap:2">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=dark"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=yabaernesto&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
-</div>
 
 🎮 Apaixonado por programação, educação e cultura geek — e sim, ainda defendo que o Mega Drive foi o melhor console de todos os tempos!
 
