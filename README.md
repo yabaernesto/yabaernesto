@@ -71,6 +71,11 @@
 
 ---
 
+<div style="display:flex; gap:2">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=yabaernesto&show_icons=true&theme=dark"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=yabaernesto&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+</div>
+
 🎮 Apaixonado por programação, educação e cultura geek — e sim, ainda defendo que o Mega Drive foi o melhor console de todos os tempos!
 
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">
