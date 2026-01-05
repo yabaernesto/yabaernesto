@@ -73,8 +73,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Drizzle ORM](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
 
 ---
 
