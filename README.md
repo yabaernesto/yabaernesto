@@ -1,5 +1,5 @@
 <h1 align="center">Faaala Dev 👋, sou Yaba Ernesto</h1>
-<h3 align="center">Desenvolvedor apaixonado por programação e educação</h3><br/>
+<h3 align="center">Desenvolvedor de Software apaixonado por programação e educação</h3><br/>
 
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
@@ -22,9 +22,10 @@
 <br>
 
 - 🎓 &nbsp;Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔭 &nbsp;Entusiasta de **Engenharia de Software**, apaixonado por arquitetura e boas práticas
-- 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
+- 🔭 &nbsp;Entusiasta de **Engenharia de Software**
+- 👷 Apaixonado por princípios, design patterns e arquitetura de software
 - 👨🏻‍💻 &nbsp;Desenvolvedor **Fullstack**, especialista no ecossistema **JavaScript** ☕
+- 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
 - 💬 &nbsp;Pergunte-me sobre **JavaScript, TypeScript, React e Node.js**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 
@@ -39,7 +40,7 @@
 
 - 💻 Tenho mais de 4 anos de experiência como desenvolvedor, com foco no ecossistema JavaScript/TypeScript, criando aplicações modernas e escaláveis para web, mobile e desktop.
 
-- 🚀 Minha stack principal inclui **JavaScript**, **TypeScript**, **React.js**, **React Native**, **Node.js**, **Bun**, **Deno** e **Electron** — estou sempre explorando novas ferramentas e aprimorando minhas práticas de desenvolvimento.
+- 🚀 Minha stack principal inclui **JavaScript**, **TypeScript**, **React.js**, **React Native**, **Node.js**, **Bun**, **Deno** e **Electron** — estou sempre explorando novas ferramentas e aprimorando minhas habilidades como desenvolvedor de software.
 
 - ⚙️ Prezo por um código limpo, organizado e de fácil manutenção, aplicando boas práticas para garantir projetos seguros e consistentes.
 
