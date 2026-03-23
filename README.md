@@ -69,7 +69,6 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
-![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
