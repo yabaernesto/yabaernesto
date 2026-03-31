@@ -56,25 +56,24 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![TanStack](https://img.shields.io/badge/-TanStack-333333?style=flat&logo=tanstack)
+
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Drizzle ORM](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
-
 
 ---
 
