@@ -60,6 +60,9 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![TanStack](https://img.shields.io/badge/-TanStack-333333?style=flat&logo=tanstack)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
 
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
