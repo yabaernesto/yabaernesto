@@ -62,13 +62,10 @@
 ![TanStack](https://img.shields.io/badge/-TanStack-333333?style=flat&logo=tanstack)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
