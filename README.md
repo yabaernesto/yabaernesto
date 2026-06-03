@@ -68,6 +68,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
