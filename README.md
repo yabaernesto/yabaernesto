@@ -20,14 +20,14 @@
 <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"/>
 
 - 🎓 &nbsp;Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔭 &nbsp;Entusiasta de **Engenharia de Software**
-- 👷 Apaixonado por arquitetura e engenharia de software. Seguindo sempre design patterns e princípios de arquitetura em projetos
+- 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento web e mobile.
+- 👷 &nbsp;Apaixonado por arquitetura e engenharia de software. Seguindo sempre design patterns e princípios de arquitetura em projetos
 - 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e mobile, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
 - 💬 &nbsp;Pergunte-me sobre **JS/TS**, **React**, **Node.js** e **Go**
 - Estudando Rust e Tauri (para desenvolvimento desktop).
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
-- 😩 Secretamente sou o Satoru Gojo
+- 😩 &nbsp;Secretamente sou o Satoru Gojo
 
 ---
 
@@ -62,7 +62,7 @@
 
 - ⚙️ Foco em **arquitetura de software, qualidade de código e boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
 
-* 👨🏻‍💻 **Co-founder da Spacenauta** e da **Node.js Angola Community**. Também fui **Founder e Desenvolvedor Full Stack & Mobile** de uma Fintech incubada pela **Sonangol (SonaJovem 5.0)** e atuei como **Desenvolvedor Full Stack no programa Boa Energia Digital da Pumangol**, contribuindo para projetos de transformação digital em Angola.
+- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. Também fui **Founder e Desenvolvedor Full Stack & Mobile** da minha Fintech incubada pela **Sonangol (SonaJovem 5.0)** e também atuei como **Desenvolvedor Full Stack no programa Boa Energia Digital da Pumangol**, contribuindo para projetos de internos do ecossistema digital da **Pumangol**.
 
 ---
 
