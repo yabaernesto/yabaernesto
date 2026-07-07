@@ -58,7 +58,7 @@
 
 - ⚙️ Foco em **arquitetura de software, qualidade de código e boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
 
-- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. Também fui **Founder e Desenvolvedor Full Stack & Mobile** da minha Fintech incubada pela **Sonangol (SonaJovem 5.0)** e também atuei como **Desenvolvedor Full Stack no programa Boa Energia Digital da Pumangol**, contribuindo para projetos de internos do ecossistema digital da **Pumangol**.
+- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. **Founder** e **Desenvolvedor Full Stack** da minha própria Fintech incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital da Pumangol**, contribuindo para projetos de internos do ecossistema digital da **Pumangol**.
 
 ---
 
