@@ -24,18 +24,6 @@
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 - 😩 &nbsp;Secretamente sou o Satoru Gojo
 
-## 👨🏻‍💻 &nbsp;Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **algoritmos, estruturas de dados, POO e fundamentos de engenharia de software**.
-
-- 💻 Desenvolvedor de software com mais de **5 anos de experiência**, atualmente me especializando no ecossistema **JavaScript/TypeScript** e **Golang**, criando aplicações modernas e escaláveis para **web, mobile e desktop**.
-
-- 🚀 Minha stack principal inclui **TypeScript, JavaScript, React.js, Next.js, TanStack Start, React Native, Node.js e Electron**. Sou entusiasta do ecossistema JavaScript e exploro tecnologias como **Bun, Deno e Lynx.js** em projetos pessoais.
-
-- ⚙️ Foco em **arquitetura de software, qualidade de código e boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
-
-- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. **Founder** e **Desenvolvedor Full Stack** da minha própria Fintech incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital da Pumangol**, contribuindo para projetos de internos do ecossistema digital da **Pumangol**.
-
 ---
 
 <h3 align="center">⚡ GitHub Overview</h3>
@@ -56,6 +44,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 👨🏻‍💻 &nbsp;Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **algoritmos, estruturas de dados, POO e fundamentos de engenharia de software**.
+
+- 💻 Desenvolvedor de software com mais de **5 anos de experiência**, atualmente me especializando no ecossistema **JavaScript/TypeScript** e **Golang**, criando aplicações modernas e escaláveis para **web, mobile e desktop**.
+
+- 🚀 Minha stack principal inclui **TypeScript, JavaScript, React.js, Next.js, TanStack Start, React Native, Node.js e Electron**. Sou entusiasta do ecossistema JavaScript e exploro tecnologias como **Bun, Deno e Lynx.js** em projetos pessoais.
+
+- ⚙️ Foco em **arquitetura de software, qualidade de código e boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
+
+- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. **Founder** e **Desenvolvedor Full Stack** da minha própria Fintech incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital da Pumangol**, contribuindo para projetos de internos do ecossistema digital da **Pumangol**.
 
 ---
 
