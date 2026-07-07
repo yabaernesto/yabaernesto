@@ -19,9 +19,8 @@
 
 <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"/>
 
-- 🎓 &nbsp;Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento web e mobile.
-- 👷 &nbsp;Apaixonado por arquitetura e engenharia de software. Seguindo sempre design patterns e princípios de arquitetura em projetos
 - 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e mobile, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
 - 💬 &nbsp;Pergunte-me sobre **JS/TS**, **React**, **Node.js** e **Go**
