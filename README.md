@@ -126,4 +126,4 @@
 
 ### Apoie-me
 
-<a href="https://www.buymeacoffee.com/invite/yabaernesto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://buymeacoffee.com/yabaernesto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
