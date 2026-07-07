@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador"/>
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
 
 - 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento web e mobile.
