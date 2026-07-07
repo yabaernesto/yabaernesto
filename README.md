@@ -15,14 +15,13 @@
 
 <h3 align="center">Desenvolvedor de Software apaixonado por programação e educação</h3><br/>
 
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"/>
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador"/>
 
 - 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento web e mobile.
 - 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e mobile, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
-- 💬 &nbsp;Pergunte-me sobre **JS/TS**, **React**, **Node.js** e **Go**
-- Estudando Rust e Tauri (para desenvolvimento desktop).
+- 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **React**, **Node.js** e **Go**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 - 😩 &nbsp;Secretamente sou o Satoru Gojo
 
@@ -96,7 +95,6 @@
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=gin)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=DEA584)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
