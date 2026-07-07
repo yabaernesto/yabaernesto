@@ -1,7 +1,5 @@
 <h1 align="center">Faaala Dev 👋, sou Yaba Ernesto</h1>
 
----
-
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
 ![Followers](https://img.shields.io/github/followers/yabaernesto)
