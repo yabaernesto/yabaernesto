@@ -18,7 +18,7 @@
 
 - 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento web e mobile.
-- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e mobile, se especializando no ecossistema **JavaScript** e **Go** ☕
+- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
 - 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **React**, **Node.js** e **Go**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
@@ -57,7 +57,7 @@
 
 - ⚙️ Foco em **arquitetura de software, qualidade de código e boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
 
-- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. **Founder** e **Desenvolvedor Full Stack** da minha própria Fintech incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital da Pumangol**, contribuindo para projetos de internos do ecossistema digital da **Pumangol**.
+- 👨🏻‍💻 **Co-founder da Spacenauta** e da **Comunidade Angolana de Node.js**. Fui **founder** e **Desenvolvedor Full Stack** de uma Fintech incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital da Pumangol**, contribuindo para projetos internos do ecossistema digital da **Pumangol**.
 
 ---
 
@@ -113,8 +113,12 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
+![Biome](https://img.shields.io/badge/-Biome-333333?style=flat&logo=biome)
 ![Commitlint](https://img.shields.io/badge/-Commitlint-333333?style=flat&logo=commitlint)
 ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
 
 ---
 
