@@ -1,5 +1,5 @@
-<h1 align="center">Faaala Dev 👋, sou Yaba Ernesto</h1>
-<h3 align="center">Desenvolvedor de Software apaixonado por programação e educação</h3><br/>
+<h1 align="center">Bem-vindo 👋, sou o Yaba Ernesto</h1>
+<h3 align="center">Engenheiro Full-Stack apaixonado por programação e educação!</h3>
 
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
@@ -17,12 +17,12 @@
 <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
 
 - 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
-- 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento web e mobile.
+- 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
 - 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
-- 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **React**, **Node.js** e **Go**
+- 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **Node.js** e **Go**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
-- 😩 &nbsp;Secretamente sou o Satoru Gojo
+- 😩 &nbsp;Secretamente sou o **Satoru Gojo**
 
 ---
 
@@ -101,8 +101,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Drizzle ORM](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
 <h3>⚙️ &nbsp;Tooling:</h3>
