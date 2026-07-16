@@ -75,35 +75,18 @@
 ![TanStack](https://img.shields.io/badge/-TanStack-333333?style=flat&logo=tanstack)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-333333?style=flat&logo=reactquery)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=reacthookform)
-![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
-![Radix UI](https://img.shields.io/badge/-Radix%20UI-333333?style=flat&logo=radixui&logoColor=161618)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui)
-
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![Hono](https://img.shields.io/badge/-Hono-333333?style=flat&logo=hono)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=gin)
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Drizzle ORM](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Tooling:</h3>
 
