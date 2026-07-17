@@ -20,7 +20,7 @@
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
 - 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
-- 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **Node.js** e **Go**
+- 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **Node.js** e **React**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 - 😩 &nbsp;Secretamente sou o **Satoru Gojo**
 
@@ -51,13 +51,13 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **algoritmos, estruturas de dados, POO e fundamentos de engenharia de software**.
 
-- 💻 Desenvolvedor de software a mais de **5 anos**, atualmente me especializando no ecossistema **JavaScript/TypeScript** e **Golang**, criando aplicações modernas e escaláveis para **web, mobile e desktop**.
+- 💻 Desenvolvedor de software a mais de **5 anos**. Atualmente me especializando no ecossistema **JavaScript/TypeScript** e **Golang**, criando aplicações modernas e escaláveis para **web, mobile e desktop**.
 
-- 🚀 Minha stack principal inclui **TypeScript, JavaScript, React.js, Next.js, TanStack Start, React Native, Node.js e Electron**. Sou entusiasta do ecossistema JavaScript e exploro tecnologias como **Bun, Deno e Lynx.js** em projetos pessoais.
+- 🚀 Minha stack principal inclui **JavaScript**, **TypeScript**, **Node.js**, **React**, **Next.js**, **React Native** e **Electron**. Sou entusiasta do ecossistema **JavaScript** e exploro tecnologias como **Bun**, **Deno** e **Lynx.js** em projetos pessoais.
 
-- ⚙️ Foco em **arquitetura de software**, **qualidade de código** e **boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
+- ⚙️ Foco em **Arquitetura de Software**, **qualidade de código** e **boas práticas de engenharia**, buscando desenvolver sistemas seguros, performáticos e fáceis de evoluir.
 
-- 👨🏻‍💻 **Co-founder** da **Spacenauta** e da **Comunidade Angolana de Node.js**. Fui **founder** e **Desenvolvedor Full Stack** de uma Fintech incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital** da **Pumangol**, contribuindo para projetos internos do ecossistema digital da **Pumangol**.
+- 👨🏻‍💻 **Co-founder** da **Spacenauta** e da **Comunidade Angolana de Node.js**. Fui **founder** e **Desenvolvedor Full Stack** de uma **Fintech** incubada pela **Sonangol (SonaJovem 5.0)**, também atuei como **Desenvolvedor Full Stack** no programa **Boa Energia Digital** da **Pumangol**, contribuindo para projetos internos do ecossistema digital da **Pumangol**.
 
 ---
 
@@ -73,7 +73,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![TanStack](https://img.shields.io/badge/-TanStack-333333?style=flat&logo=tanstack)
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
