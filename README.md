@@ -18,7 +18,7 @@
 
 - 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
-- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** e **Go** ☕
+- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
 - 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **Node.js** e **React**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
@@ -51,7 +51,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **algoritmos, estruturas de dados, POO e fundamentos de engenharia de software**.
 
-- 💻 Desenvolvedor de software a mais de **5 anos**. Atualmente me especializando no ecossistema **JavaScript/TypeScript** e **Golang**, criando aplicações modernas e escaláveis para **web, mobile e desktop**.
+- 💻 Desenvolvedor de software a mais de **5 anos**. Atualmente me especializando no ecossistema **JavaScript/TypeScript**, criando aplicações modernas e escaláveis para **web, mobile e desktop**.
 
 - 🚀 Minha stack principal inclui **JavaScript**, **TypeScript**, **Node.js**, **React**, **Next.js**, **React Native** e **Electron**. Sou entusiasta do ecossistema **JavaScript** e exploro tecnologias como **Bun**, **Deno** e **Lynx.js** em projetos pessoais.
 
@@ -79,7 +79,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
