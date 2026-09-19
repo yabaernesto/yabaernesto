@@ -18,9 +18,9 @@
 
 - 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
 - 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
-- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** ☕
+- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** e **Go** ☕
 - 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
-- 💬 &nbsp;Pergunte-me sobre **JavaScript/TypeScript**, **Node.js** e **React**
+- 💬 &nbsp;Vamos falar sobre **JS/TS**, **Node.js** e **React**
 - 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 - 😩 &nbsp;Secretamente sou o **Satoru Gojo**
 
