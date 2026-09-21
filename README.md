@@ -1,5 +1,4 @@
-<h1 align="center">Bem-vindo 👋, sou o Yaba Ernesto</h1>
-<h3 align="center">Engenheiro Full-Stack apaixonado por programação e educação!</h3>
+Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), meu nome é **Yaba Ernesto** e sou Desenvolvedor de Software.
 
 [![Yaba Ernesto](https://img.shields.io/badge/Yaba-Ernesto-<COLOR>.svg)](https://shields.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yabaernesto&color=yellow)
@@ -14,17 +13,23 @@
 
 ---
 
+Software Developer
+---
+
+Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvolvimento web e mobile, especializado em desenvolvimento **full-stack**. Minha trajetória na criação de aplicativos — tanto para web quanto para dispositivos mobile — é impulsionada por uma paixão genuína em resolver problemas e criar soluções de impacto.
+<br><br>
+Atualmente, estou focado no meu crescimento pessoal e profissional como **Engenheiro de Software**, me especializando no ecossistema **JavaScript** e **Go**, sempre em busca de novas tecnologias e práticas para aprimorar minhas habilidades.
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
-
-- 🎓 &nbsp;Bacharelando em **Análise e Desenvolvimento de Sistemas**
-- 🔭 &nbsp;Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
-- 👨🏻‍💻 &nbsp;Desenvolvedor **Full-stack** e **mobile**, se especializando no ecossistema **JavaScript** e **Go** ☕
-- 👯 &nbsp;Contribuidor ativo em projetos **Open Source**
-- 💬 &nbsp;Vamos falar sobre **JS/TS**, **Node.js** e **React**
-- 🎮 &nbsp;Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
-- 😩 &nbsp;Secretamente sou o **Satoru Gojo**
+* 🌍 Estou vivendo em Luanda, Angola.
+* 🎓 Bacharelando em **Análise e Desenvolvimento de Sistemas**
+* 🔭 Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
+* 👨🏻‍💻 Estou aprendendo **Rust**.
+* 👯 Estou aberto a colaborar ou contribuir com qualquer projeto relacionado à área.
+* 💬 Vamos falar sobre **JS/TS**, **Node.js** e **React**
+* 🎮 Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
+* 😩 Secretamente sou o **Satoru Gojo**
 
 ---
 
