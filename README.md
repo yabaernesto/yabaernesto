@@ -20,9 +20,8 @@ Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvol
 <br><br>
 Atualmente, estou focado no meu crescimento pessoal e profissional como **Engenheiro de Software**, me especializando no ecossistema **JavaScript** e **Go**, sempre em busca de novas tecnologias e práticas para aprimorar minhas habilidades.
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
 
-* 👨🏻‍💻 Estou aprendendo **Rust**.
 * 🌍 Estou vivendo em Luanda, Angola.
 * 💬 Vamos falar sobre **JS/TS**, **Node.js** e **React**
 * 🎓 Bacharelando em **Análise e Desenvolvimento de Sistemas**
