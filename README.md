@@ -22,13 +22,12 @@ Atualmente, estou focado no meu crescimento pessoal e profissional como **Engenh
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-* 🌍 Estou vivendo em Luanda, Angola.
-* 🎓 Bacharelando em **Análise e Desenvolvimento de Sistemas**
-* 🔭 Entusiasta de **Engenharia de Software** e das melhores tecnologias de desenvolvimento **web** e **mobile**.
 * 👨🏻‍💻 Estou aprendendo **Rust**.
-* 👯 Estou aberto a colaborar ou contribuir com qualquer projeto relacionado à área.
+* 🌍 Estou vivendo em Luanda, Angola.
 * 💬 Vamos falar sobre **JS/TS**, **Node.js** e **React**
+* 🎓 Bacharelando em **Análise e Desenvolvimento de Sistemas**
 * 🎮 Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
+* 👯 Estou aberto a colaborar ou contribuir com qualquer projeto relacionado à área.
 * 😩 Secretamente sou o **Satoru Gojo**
 
 ---
