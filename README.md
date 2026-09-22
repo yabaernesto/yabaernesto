@@ -16,8 +16,6 @@ Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Developer
 ---
 
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="340px" max-width="340px" width="340px" align="right" alt="Computador"/>
-
 Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvolvimento web e mobile, especializado em desenvolvimento **full-stack**.
 <br><br>
 Atualmente, estou focado no meu crescimento como **Engenheiro de Software**, me especializando no ecossistema **JavaScript** e **Go**, sempre em busca de novas tecnologias e práticas para aprimorar minhas habilidades.
