@@ -16,11 +16,11 @@ Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Developer
 ---
 
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
+
 Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvolvimento web e mobile, especializado em desenvolvimento **full-stack**. Minha trajetória na criação de aplicativos — tanto para web quanto para dispositivos mobile — é impulsionada por uma paixão genuína em resolver problemas e criar soluções de impacto.
 <br><br>
 Atualmente, estou focado no meu crescimento pessoal e profissional como **Engenheiro de Software**, me especializando no ecossistema **JavaScript** e **Go**, sempre em busca de novas tecnologias e práticas para aprimorar minhas habilidades.
-
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
 
 * 🌍 Estou vivendo em Luanda, Angola.
 * 💬 Vamos falar sobre **JS/TS**, **Node.js** e **React**
