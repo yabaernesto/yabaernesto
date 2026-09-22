@@ -16,18 +16,17 @@ Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Developer
 ---
 
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador"/>
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="370px" max-width="370px" width="370px" align="right" alt="Computador"/>
 
-Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvolvimento web e mobile, especializado em desenvolvimento **full-stack**. Minha trajetória na criação de aplicativos — tanto para web quanto para dispositivos mobile — é impulsionada por uma paixão genuína em resolver problemas e criar soluções de impacto.
+Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvolvimento web e mobile, especializado em desenvolvimento **full-stack**.
 <br><br>
-Atualmente, estou focado no meu crescimento pessoal e profissional como **Engenheiro de Software**, me especializando no ecossistema **JavaScript** e **Go**, sempre em busca de novas tecnologias e práticas para aprimorar minhas habilidades.
+Atualmente, estou focado no meu crescimento como **Engenheiro de Software**, me especializando no ecossistema **JavaScript** e **Go**, sempre em busca de novas tecnologias e práticas para aprimorar minhas habilidades.
 
 * 🌍 Estou vivendo em Luanda, Angola.
 * 💬 Vamos falar sobre **JS/TS**, **Node.js** e **React**
 * 🎓 Bacharelando em **Análise e Desenvolvimento de Sistemas**
 * 🎮 Amante da cultura pop e geek — tecnologia, inovação, filmes, animes e games
 * 👯 Estou aberto a colaborar ou contribuir com qualquer projeto relacionado à área.
-* 😩 Secretamente sou o **Satoru Gojo**
 
 ---
 
