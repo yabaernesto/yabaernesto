@@ -16,7 +16,7 @@ Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Developer
 ---
 
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="370px" max-width="370px" width="370px" align="right" alt="Computador"/>
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" min-width="360px" max-width="360px" width="360px" align="right" alt="Computador"/>
 
 Sou um desenvolvedor de software entusiasta das melhores tecnologias de desenvolvimento web e mobile, especializado em desenvolvimento **full-stack**.
 <br><br>
